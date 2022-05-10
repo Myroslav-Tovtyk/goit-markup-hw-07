@@ -604,7 +604,7 @@ body {
 }
 .form__checkbox:checked + .form__checkbox-custom {
   background-color: #2196F3;
-  background-image: url(../../images/svg/vector.svg);
+  background-image: url(./../images/svg/vector.svg);
   background-size: contain;
   background-repeat: no-repeat;
   background-origin: border-box;

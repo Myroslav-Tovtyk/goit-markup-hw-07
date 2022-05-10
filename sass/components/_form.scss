@@ -81,7 +81,7 @@
 
     &__checkbox:checked + &__checkbox-custom{            
         background-color: $accent-color;  
-        background-image: url(../../images/svg/vector.svg);
+        background-image: url(./../images/svg/vector.svg);
         background-size: contain;
         background-repeat: no-repeat;
         background-origin: border-box;
