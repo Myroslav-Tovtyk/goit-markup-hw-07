@@ -1,8 +1,7 @@
 @import "./utils/vars";
 @import "./base/normalize";
-@import "./utils/tags-reset";
 @import "./utils/visually-hidden";
-@import "./components/body";
+@import "./components/common";
 @import "./components/container";
 @import "./components/link";
 @import "./components/header";
@@ -10,7 +9,6 @@
 @import "./components/nav";
 @import "./components/menu";
 @import "./components/contact";
-@import "./components/current";
 @import "./components/section-hero";
 @import "./components/button";
 @import "./components/overlay";
